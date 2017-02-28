@@ -1,0 +1,65 @@
+body{
+	background-color: #2d256d;
+}
+
+.content{
+	width: 80%;
+    margin: auto;
+    margin-top: 0px;
+    background-color: white;
+    font-size: 20px;
+
+    
+    
+}
+
+h3{
+	font-weight: bold;
+	font-size: 40px;
+	font-family: Playfair Display;
+}
+
+.navbar-fixed{
+	font-family: Playfair Display;
+}
+
+
+.key{
+	font-size: 14px;
+
+}
+
+.key ul{
+	list-style-type: disc;
+
+}
+
+h5{
+	font-family: Playfair Display;
+	font-weight: bolder;
+
+}
+ol{
+	border-style: solid;
+	border-color:green;
+}
+
+.collapsible-header{
+	font-family: Playfair Display;
+	font-weight: bolder;
+
+}
+
+
+.collapsible-body span{
+	font-size: 14px;
+}
+
+.question{
+	color:blue;
+	font-weight: bold;
+}
+
+.nav-mobile li{
+	padding-left: 2px;
+}
